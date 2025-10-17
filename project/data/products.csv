@@ -1,0 +1,51 @@
+﻿product_id,product_name,product_category,price
+PROD001,Laptop Pro 15,Elektronik,15000000
+PROD002,Smartphone X,Elektronik,8500000
+PROD003,Wireless Mouse,Elektronik,250000
+PROD004,Mechanical Keyboard,Elektronik,800000
+PROD005,T-Shirt Katun,Pakaian,150000
+PROD006,Kemeja Flanel,Pakaian,350000
+PROD007,Celana Jeans,Pakaian,450000
+PROD008,Sepatu Lari,Olahraga,750000
+PROD009,Matras Yoga,Olahraga,300000
+PROD010,Dumbbell 5kg,Olahraga,200000
+PROD011,"Novel Fiksi ""Senja""",Buku,95000
+PROD012,"Buku Motivasi ""Bangkit""",Buku,120000
+PROD013,Komik Petualangan,Buku,50000
+PROD014,Panci Set Anti Lengket,Rumah Tangga,550000
+PROD015,Blender Multifungsi,Rumah Tangga,400000
+PROD016,Sprei Katun Jepang,Rumah Tangga,250000
+PROD017,Headphone Bluetooth,Elektronik,600000
+PROD018,Jaket Hoodie,Pakaian,400000
+PROD019,Tas Ransel,Olahraga,350000
+PROD020,Buku Resep Masakan,Buku,110000
+PROD021,Lampu Meja LED,Rumah Tangga,180000
+PROD022,Power Bank 10000mAh,Elektronik,300000
+PROD023,Sandal Gunung,Pakaian,280000
+PROD024,Botol Minum 1L,Olahraga,80000
+PROD025,Buku Sejarah Dunia,Buku,150000
+PROD026,Set Alat Masak,Rumah Tangga,700000
+PROD027,Webcam HD,Elektronik,450000
+PROD028,Topi Baseball,Pakaian,120000
+PROD029,Tali Skipping,Olahraga,60000
+PROD030,Kamus Inggris-Indonesia,Buku,130000
+PROD031,Smartwatch Fit,Elektronik,1200000
+PROD032,Celana Chino,Pakaian,380000
+PROD033,Raket Badminton,Olahraga,450000
+PROD034,Buku Ensiklopedia,Buku,250000
+PROD035,Air Fryer,Rumah Tangga,950000
+PROD036,Speaker Portable,Elektronik,550000
+PROD037,Gaun Pesta,Pakaian,650000
+PROD038,Bola Basket,Olahraga,150000
+PROD039,Buku Puisi,Buku,85000
+PROD040,Vacuum Cleaner,Rumah Tangga,1100000
+PROD041,Tablet 10 inch,Elektronik,4500000
+PROD042,Sweater Rajut,Pakaian,320000
+PROD043,Sarung Tangan Gym,Olahraga,90000
+PROD044,Buku Anak Bergambar,Buku,75000
+PROD045,Set Piring Keramik,Rumah Tangga,350000
+PROD046,Printer All-in-One,Elektronik,2500000
+PROD047,Rok Plisket,Pakaian,220000
+PROD048,Kacamata Renang,Olahraga,120000
+PROD049,Atlas Dunia,Buku,180000
+PROD050,Mesin Kopi Espresso,Rumah Tangga,2200000
